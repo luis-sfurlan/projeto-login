@@ -2,7 +2,7 @@
 
 /*  
     Paleta de cores
-    Verde: #94cfcd
+    Verde: #49a09d
     Lilás: #5f2c82
 */
 
@@ -36,6 +36,8 @@ section#login {
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.432);
     border-radius: 20px;
+    transition: width 0.3s, heigth .3s;
+    transition-timing-function: ease;
 }
 
 div#imagen {
